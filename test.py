@@ -1,6 +1,7 @@
 
-"这是一个第一个实验，xiawngnengouhcneg"
+"这是一个第一个实验 xiawngnengouhcneg"
 
 
 “这是第一个实验，希望能够成功”
 
+"再输入一次，看看这一次是什么"
